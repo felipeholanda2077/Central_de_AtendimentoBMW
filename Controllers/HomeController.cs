@@ -23,15 +23,21 @@ namespace ATV_3_UC5.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Serviços()
         {
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+         public IActionResult Contato()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View();
         }
+
+        public IActionResult SalvarMensagem(Mensagem m)
+        {
+            return View("Listagem", m);
+        }
+
+    
     }
 }

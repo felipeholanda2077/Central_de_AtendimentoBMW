@@ -19,15 +19,8 @@ using ATV_3_UC5;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 2 "C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\Views\_ViewImports.cshtml"
-using ATV_3_UC5.Models;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"69b083a1377b2417c1d3ee3ca63ba046ffbbaecc", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"fd4809469311c0a07199ffb44d04aac312171eb3", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

@@ -10,7 +10,6 @@ C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\ATV-3 UC5.T
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\ATV-3 UC5.RazorCoreGenerate.cache
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamentos.cshtml.g.cs
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
@@ -35,4 +34,5 @@ C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\staticwebas
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\staticwebassets\ATV-3 UC5.StaticWebAssets.xml
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\ATV-3 UC5.genruntimeconfig.cache
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\ATV-3 UC5.csproj.CopyComplete
-C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Listagem.cshtml.g.cs
+C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Serviços.cshtml.g.cs

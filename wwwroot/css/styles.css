@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Skranji:wght@400;700&display=swap");
 
 :root {
-  --lightGreen: rgba(4, 0, 255, 0.9);
+  --lightGreen: rgba(13, 11, 167, 0.9);
 }
 
 * {
@@ -40,7 +40,7 @@ header {
 }
 
 .logo a {
-  font-family: "Helvetica", cursive;
+  font-family: "Roboto", cursive;
   text-decoration: none;
   color: white;
   font-weight: bold;
@@ -67,7 +67,7 @@ nav a {
 }
 
 nav a:hover {
-  color: rgb(219, 44, 0);
+  color: rgb(0, 219, 0);
   text-decoration: none;
 }
 
@@ -87,7 +87,7 @@ footer {
 footer p {
   padding: 0;
   margin: 0;
-  color: rgb(255, 255, 255);
+  color: rgb(179, 4, 4);
   font-weight: bold;
 }
 
@@ -145,7 +145,7 @@ footer p {
 .titulo {
   padding: 10px 0;
   width: auto;
-  font-family: Verdana, Geneva, Helvetica;
+  font-family: Geneva, Helvetica;
   color: rgb(0, 0, 0);
   background-color: var(--lightGreen);
   font-weight: bold;

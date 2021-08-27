@@ -99,7 +99,7 @@ footer p {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(Banner.jpg);
+  background-image: url(../images/Banner.jpg);
   background-origin: border-box;
   background-repeat: no-repeat;
   background-position-y: 50%;
@@ -194,7 +194,7 @@ footer p {
 #vet {
   width: 100%;
   height: 100%;
-  background-image: url(Banner.jpg);
+  background-image: url(../images/Banner.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -204,7 +204,7 @@ footer p {
 #banho {
   width: 100%;
   height: 100%;
-  background-image: url(Banner.jpg);
+  background-image: url(../images/Banner.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

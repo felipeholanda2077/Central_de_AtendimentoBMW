@@ -35,7 +35,7 @@ namespace ATV_3_UC5.Controllers
 
         public IActionResult SalvarMensagem(Mensagem m)
         {
-            return View("Listagem", m);
+            return View("ConfirmarMsg", m);
         }
 
     

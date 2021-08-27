@@ -8,15 +8,15 @@
     <form asp-action="SalvarMensagem" method="POST">
         <div class="form-row">
             <div class="form-group col-md-4">
-                <label asp-for="nome">Nome</label>
+                <label asp-for="nome">Seu Nome: </label>
                 <input asp-for="nome" class="form-control" placeholder="Insira seu nome..." required>
             </div>
             <div class="form-group col-md-4">
-                <label asp-for="email">Email</label>
+                <label asp-for="email">Seu Email: </label>
                 <input asp-for="email" type="email" class="form-control" placeholder="Insira seu Email..." required>
             </div>
             <div class="form-group col-md-4">
-                <label asp-for="telefone">Telefone</label>
+                <label asp-for="telefone">Seu Telefone: </label>
                 <input asp-for="telefone" class="form-control" placeholder="Insira seu telefone...">
             </div>
         </div>
@@ -28,12 +28,13 @@
                     <option value="2">Reclamação</option>
                     <option value="3">Elogio</option>
                     <option value="4">Agendamento</option>
+                    <option value="5">Consulta</option>
                 </select>
             </div>
             <div class="form-group col-md-4">
         </div>
         <div class="form-group col-md-4">
-            <label asp-for="animal">NewPetShop</label>
+            <label asp-for="animal">Seu Pet: </label>
             <input asp-for="animal" class="form-control" placeholder="Insira o nome do seu Pet...">
         </div>
         </div>        

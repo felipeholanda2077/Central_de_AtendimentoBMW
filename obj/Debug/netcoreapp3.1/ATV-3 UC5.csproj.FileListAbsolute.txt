@@ -8,7 +8,6 @@ C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\ATV-3 UC5.R
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\ATV-3 UC5.TagHelpers.input.cache
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\ATV-3 UC5.TagHelpers.output.cache
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\ATV-3 UC5.RazorCoreGenerate.cache
-C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamentos.cshtml.g.cs
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -36,3 +35,4 @@ C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\ATV-3 UC5.g
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\ATV-3 UC5.csproj.CopyComplete
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Listagem.cshtml.g.cs
 C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Serviços.cshtml.g.cs
+C:\Users\felip\OneDrive\Documentos\ATV-3 UC5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs

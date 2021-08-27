@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Skranji:wght@400;700&display=swap");
 
 :root {
-  --lightGreen: rgba(131, 9, 9, 0.9);
+  --red: rgb(143, 0, 0);
 }
 
 * {
@@ -14,7 +14,7 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: rgb(143, 9, 9);
+  background-color: rgb(255, 0, 0);
 }
 
 header {
@@ -24,7 +24,7 @@ header {
   max-width: 100%;
   justify-content: space-around;
   align-items: center;
-  background-color: rgb(0, 0, 0);
+  background-color: red;
 }
 
 .logo {
@@ -40,7 +40,7 @@ header {
 }
 
 .logo a {
-  font-family: "Roboto", cursive;
+  font-family: "Helvetica", cursive;
   text-decoration: none;
   color: white;
   font-weight: bold;
@@ -67,7 +67,7 @@ nav a {
 }
 
 nav a:hover {
-  color: rgb(7, 11, 231);
+  color: rgb(235, 10, 10);
   text-decoration: none;
 }
 
@@ -76,7 +76,7 @@ main {
 }
 
 footer {
-  background-color: black;
+  background-color: var(--red);
   min-height: 50px;
   margin-top: auto;
   display: flex;
@@ -87,7 +87,7 @@ footer {
 footer p {
   padding: 0;
   margin: 0;
-  color: rgb(0, 0, 0);
+  color: white;
   font-weight: bold;
 }
 
@@ -107,7 +107,7 @@ footer p {
 }
 
 .serviços-index h1 {
-  color: rgb(0, 0, 0);
+  color: rgb(10, 7, 216);
   font-weight: bold;
   margin-bottom: 20px;
   padding: 0;
@@ -123,7 +123,7 @@ footer p {
 .descrição h2 {
   text-align: center;
   line-height: 2rem;
-  color: rgb(0, 0, 0);
+  color: white;
   margin: 0 200px;
 }
 
@@ -135,8 +135,8 @@ footer p {
 .destaque {
   padding: 0 5px;
   text-transform: uppercase;
-  background-color: red;
-  color: rgb(0, 0, 0);
+  background-color: var(--red);
+  color: white;
   border-radius: 10px;
 }
 
@@ -145,9 +145,9 @@ footer p {
 .titulo {
   padding: 10px 0;
   width: auto;
-  font-family: Geneva, Helvetica;
-  color: rgb(0, 0, 0);
-  background-color: red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  background-color: var(--red);
   font-weight: bold;
   text-align: center;
 }
@@ -167,8 +167,8 @@ footer p {
   margin: 20px;
   align-items: center;
   justify-content: center;
-  background-color: rgb(255, 51, 0);
-  color: rgb(0, 0, 0);
+  background-color: rgb(1, 18, 248);
+  color: white;
   border-radius: 15px;
 }
 
@@ -182,7 +182,7 @@ footer p {
   margin: 20px;
   padding: 10px;
   overflow: hidden;
-  background-color: rgb(233, 10, 10);
+  background-color: rgb(0, 60, 255);
   border-radius: 15px;
 }
 
@@ -222,7 +222,7 @@ footer p {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-family: Helvetica, Geneva, Tahoma;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: large;
   padding-top: 50px;
   padding-left: 100px;
@@ -234,7 +234,7 @@ footer p {
 
 .checkbtn{
   font-size: 5rem;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 0, 0);
   float: right;
   cursor: pointer;
   display: none;
@@ -287,7 +287,7 @@ footer p {
     flex-direction: column;
     width: 100%;
     height: 50vh;
-    background-color: var(--lightGreen);
+    background-color: var(--red);
     top: 100px;
     right: -100%;
     transition: all .5s;

@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Skranji:wght@400;700&display=swap");
 
 :root {
-  --lightGreen: rgba(13, 11, 167, 0.9);
+  --lightGreen: rgba(131, 9, 9, 0.9);
 }
 
 * {
@@ -14,7 +14,7 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(143, 9, 9);
 }
 
 header {
@@ -24,7 +24,7 @@ header {
   max-width: 100%;
   justify-content: space-around;
   align-items: center;
-  background-color: var(--lightGreen);
+  background-color: rgb(0, 0, 0);
 }
 
 .logo {
@@ -67,7 +67,7 @@ nav a {
 }
 
 nav a:hover {
-  color: rgb(0, 219, 0);
+  color: rgb(7, 11, 231);
   text-decoration: none;
 }
 
@@ -76,7 +76,7 @@ main {
 }
 
 footer {
-  background-color: var(--lightGreen);
+  background-color: black;
   min-height: 50px;
   margin-top: auto;
   display: flex;
@@ -87,7 +87,7 @@ footer {
 footer p {
   padding: 0;
   margin: 0;
-  color: rgb(179, 4, 4);
+  color: rgb(0, 0, 0);
   font-weight: bold;
 }
 
@@ -135,7 +135,7 @@ footer p {
 .destaque {
   padding: 0 5px;
   text-transform: uppercase;
-  background-color: var(--lightGreen);
+  background-color: red;
   color: rgb(0, 0, 0);
   border-radius: 10px;
 }
@@ -147,7 +147,7 @@ footer p {
   width: auto;
   font-family: Geneva, Helvetica;
   color: rgb(0, 0, 0);
-  background-color: var(--lightGreen);
+  background-color: red;
   font-weight: bold;
   text-align: center;
 }

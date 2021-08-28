@@ -14,7 +14,7 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: whitesmoke;
+  background-color: rgb(255, 255, 255);
 }
 
 header {
@@ -30,7 +30,7 @@ header {
 .logo {
   display: flex;
   align-items: center;
-  /*width: 100%;*/
+  
 }
 
 .logo img {
@@ -40,9 +40,9 @@ header {
 }
 
 .logo a {
-  font-family: "Skranji", cursive;
-  text-decoration: none;
-  color: white;
+  font-family: "Roboto";
+  text-decoration: double;
+  color: rgb(0, 0, 0);
   font-weight: bold;
 }
 
@@ -61,7 +61,7 @@ nav li {
 
 nav a {
   text-decoration: none;
-  color: white;
+  color: rgb(0, 0, 0);
   font-weight: bold;
   font-size: larger;
 }
@@ -123,7 +123,7 @@ footer p {
 .descrição h2 {
   text-align: center;
   line-height: 2rem;
-  color: white;
+  color: rgb(0, 0, 0);
   margin: 0 200px;
 }
 

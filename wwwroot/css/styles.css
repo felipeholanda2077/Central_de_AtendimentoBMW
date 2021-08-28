@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Skranji:wght@400;700&display=swap");
 
 :root {
-  --red: rgba(190, 17, 5, 0.9);
+  --red: rgba(158, 13, 3, 0.9);
 }
 
 * {
@@ -146,7 +146,7 @@ footer p {
   padding: 10px 0;
   width: auto;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: white;
+  color: rgb(0, 0, 0);
   background-color: var(--lightGreen);
   font-weight: bold;
   text-align: center;

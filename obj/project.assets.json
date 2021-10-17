@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Documentos\\ATV-3 UC5\\ATV-3 UC5.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Documentos\\ATVS- SENAC EAD\\ATV-3 UC5\\ATV-3 UC5.csproj",
       "projectName": "ATV-3 UC5",
-      "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\ATV-3 UC5\\ATV-3 UC5.csproj",
+      "projectPath": "C:\\Users\\felip\\OneDrive\\Documentos\\ATVS- SENAC EAD\\ATV-3 UC5\\ATV-3 UC5.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\OneDrive\\Documentos\\ATV-3 UC5\\obj\\",
+      "outputPath": "C:\\Users\\felip\\OneDrive\\Documentos\\ATVS- SENAC EAD\\ATV-3 UC5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
